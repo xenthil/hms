@@ -1,2 +1,0 @@
-# hms
-Hospital Management System
